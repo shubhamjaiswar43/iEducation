@@ -109,6 +109,12 @@ html{
     resize: none;
 }
 
+/* Footer Section  */
+.myFooter{
+    text-align: center;
+    background-color: #000;
+    color:white;
+}
 /* Utility-Class */
 .d-flex{
     display: flex;
