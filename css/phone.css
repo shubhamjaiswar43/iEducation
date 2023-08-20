@@ -39,9 +39,9 @@
 
 @media screen and (max-width:415px) {
     .text-big{
-        font-size: 25px;
+        font-size: 20px;
     }
     .text-small{
-        font-size: 10px;
+        font-size: 12px;
     }
 }
