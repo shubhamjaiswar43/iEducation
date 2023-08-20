@@ -172,49 +172,5 @@ html{
 
 
 @media screen and (max-width:1100px) {
-    .burger{
-        display: block;
-    }
-    .navbar{
-        flex-direction: column;
-        transition: all .3s ease-out;
-    }
-    .rightNav>input{
-        text-align: center;
-    }
-    .nav-list,.rightNav{
-        flex-direction: column;
-    }
-    .d-none{
-        display: none;
-    }
-    .nav-h-resp{
-        height: 300px;
-    }
     
-    .box-main,.section{
-        flex-direction: column-reverse;
-        max-width: 100%;
-    }
-    .firstHalf,.secondHalf{
-        width: 90%;
-    }
-    .text-big{
-        font-size: 30px;
-    }
-    .text-small{
-        font-size: 12px;
-    }
-    .secondHalf>img{
-        height: 200px;
-        width: 200px;
-    }
-}
-@media screen and (max-width:400px) {
-    .text-big{
-        font-size: 25px;
-    }
-    .text-small{
-        font-size: 10px;
-    }
 }
